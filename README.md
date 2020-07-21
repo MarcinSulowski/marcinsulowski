@@ -1,4 +1,4 @@
-<img src="https://github.com/MarcinSulowski/marcinsulowski/blob/master/profile-header.jpg"/>
+<img src="https://github.com/MarcinSulowski/marcinsulowski/blob/master/github-profile-header-v2.jpg">
 <!--
 **MarcinSulowski/marcinsulowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
